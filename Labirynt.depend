@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1575573522 source:c:\users\lenovo\desktop\labirynt\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+
+1583264426 source:c:\users\lenovo\desktop\projekty i sem\pop\labirynt\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+
+1583264426 source:c:\users\lenovo\desktop\i semestr\projekty i sem\pop\labirynt\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+
